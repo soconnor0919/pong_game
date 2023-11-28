@@ -1,5 +1,4 @@
 # Pong Game
-<hr>
 
 ## By Sean O'Connor, Fall 2023 (CSCI 201)
 
